@@ -1,6 +1,6 @@
 {
   "name": "mofron-comp-googlesignin",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "google signin button",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,10 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/simpart/mofron-comp-googlesignin.git"
+  },
+  "dependencies": {
+    "mofron-comp-socialsignin": "",
+    "mofron-comp-svg" : ""
   },
   "keywords": [
     "front-end"
