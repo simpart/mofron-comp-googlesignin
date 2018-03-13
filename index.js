@@ -45,6 +45,7 @@ mf.comp.GoogleSignin = class extends Signin {
             if (undefined === prm) {
                 this.text(
                     new Text({
+                        text   : 'Sign in with Google',
                         weight : 700,
                         color  : new mf.Color(150,150,150)
                     })
